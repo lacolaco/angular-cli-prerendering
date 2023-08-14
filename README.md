@@ -1,4 +1,6 @@
-# Angular162
+# Angular CLI prerendering
+
+without any additional plugins or libraries.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
